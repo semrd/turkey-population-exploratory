@@ -7,13 +7,13 @@ Türkiye 2018 nüfus verilerine veri analizi dokunuşu gerçekleştirdim. İncel
 
 -Türkiye nüfusunun en büyük paydaşı 35-39 yaş arası.
 
-- İki önceki maddeye kontrast halde, 0-4 yaş arası erkeklerin sayısı kadınlardan daha fazla.
+-İki önceki maddeye kontrast halde, 0-4 yaş arası erkeklerin sayısı kadınlardan daha fazla.
 
 -Erkek nüfusu, sayı bakımından üstünlüğünü (45-49 yaş dışında) 50-54 e kadar kadın nüfusa karşı koruyor. Ancak 50-54 sonrası yaşlarda kadın nüfusu erkeklerden fazla. Kadınlar daha çok yaşıyor diyebiliriz.
 
 -Türkiye'de en az nüfuslu şehrimiz 29.770 kişi ile Amasya. Amasya'yı Bayburt, Tunceli, Ardahan ve Kilis takip ediyor. Kilis verisi oldukça ilginç, nüfus yoğunluğu 91/km².
 
-- En fazlayı söylemeye gerek bulmadım :)
+-En fazlayı söylemeye gerek bulmadım :)
 
 # English
 
