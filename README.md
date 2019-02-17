@@ -1,4 +1,4 @@
-# turkey-population-exploratory
+# An exploratory analysis approach on Turkey Population Data
 This is an exploratory data analysis of the population data in Turkey 2018 provided by tuik.gov.tr
 
 Türkiye 2018 nüfus verilerine veri analizi dokunuşu gerçekleştirdim. İncelediğim veri setlerinden bir tanesi Yaş aralıklarında nüfusun sayısı ve şehirlere göre kadın, erkek nüfustu. Öne çıkan ilginç noktalar:
